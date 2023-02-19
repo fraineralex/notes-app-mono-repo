@@ -1,0 +1,2 @@
+scripts:
+  start: node index.js && echo "Server running on: $RAILWAY_INSTANCE_IP"
