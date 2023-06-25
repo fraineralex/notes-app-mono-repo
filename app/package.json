@@ -8,7 +8,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,7 +35,7 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "cypress": "^6.8.0",
-    "json-server": "^0.15.1"
+    "json-server": "^0.17.3"
   },
   "proxy": "http://localhost:3001"
 }
