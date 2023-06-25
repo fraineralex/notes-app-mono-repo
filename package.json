@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "eslint-plugin-cypress": "2.11.2",
-    "standard": "16.0.3"
+    "standard": "17.1.0"
   },
   "keywords": [],
   "author": "",
